@@ -1,0 +1,12 @@
+.navegation-main {
+
+}
+
+.navegation-main a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.navegation-main a:hover {
+    color: var(--school-bus-yellow)
+}
