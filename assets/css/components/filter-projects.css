@@ -1,0 +1,19 @@
+.filter-projects {
+    height: 52px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.filter-projects ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    list-style: none;
+    color: var(--white)
+}
+
+.filter-projects ul li {
+    margin: 0 20px;
+    text-transform: uppercase;
+}
